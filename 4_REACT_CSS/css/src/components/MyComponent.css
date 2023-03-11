@@ -1,0 +1,14 @@
+.container h1{
+    color: green;
+}
+
+.container{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+  margin: 10px auto;
+  border: 1px solid black;
+
+}
